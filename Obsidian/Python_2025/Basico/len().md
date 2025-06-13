@@ -9,7 +9,7 @@
 ---
 
 #### 💡 Descripción del concepto  
-> Funcion que devuelve la cantidad de elementos que tiene una cadena o incluso un array. 
+> Funcion que devuelve la cantidad de elementos que tiene una [[cadena]] o incluso un [[lista]]. 
 
 ---
 #### 🔧 Función  

@@ -1,47 +1,49 @@
 
 
-### 🐍 input – Python
+### 🐍 numero – Python
 
-**📅 Fecha:** 2025-06-09  
+**📅 Fecha:** 2025-06-10  
 **📘 Curso o Fuente:**  
-**📍 Tema relacionado:**  Prompt de Python para usuario
+**📍 Tema relacionado:**  
 
 ---
 
 #### 💡 Descripción del concepto  
->Que el programa pregunta al usuario, guarda [[Datos]] en [[Variables]] para luego mostrar el resultado. 
-
+> Es un tipo de dato que representa una cantidad. 
 
 ---
-#### 🔧 Función  
-```python
-# Definicion de la funcion
-input():
-```
+#### 🧮 Tipos de numeros
+
+> Enteros = sin decimales, pueden ser negativos o postivos. 
+> float = De punto flotante, tienen parte decimal
+> complex = complejos, tienen parte real y otra imaginaria
+---
 
 
 #### 📌 Sintaxis básica  
 ```python
-input("What is your name?")
+# Sintaxis o estructura general
+a = 7 # int
+b = 2.5 # float
 ```
+
 
 ---
 
 #### 🛠 Ejemplo práctico  
 ```python
 # Código de ejemplo funcional
-print("Hola " + input("Cual es tu nombre?"))
 ```
 
 ---
 
 #### 🧠 Explicación del ejemplo  
-> En una sola linea, saluda y pide el nombre al usuario. Primero pregunta lo que esta dentro del input, luego concatena con hola en la respuesta. 
+> Línea por línea, qué hace el código anterior.
 
 ---
 
 #### 🧪 Variaciones o casos comunes  
--  Pedir datos al usuario
+-  
 -  
 
 ---

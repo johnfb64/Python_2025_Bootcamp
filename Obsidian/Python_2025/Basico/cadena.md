@@ -1,47 +1,46 @@
 
 
-### 🐍 input – Python
+### 🐍 cadena – Python
 
-**📅 Fecha:** 2025-06-09  
+**📅 Fecha:** 2025-06-10  
 **📘 Curso o Fuente:**  
-**📍 Tema relacionado:**  Prompt de Python para usuario
+**📍 Tema relacionado:**  
 
 ---
 
 #### 💡 Descripción del concepto  
->Que el programa pregunta al usuario, guarda [[Datos]] en [[Variables]] para luego mostrar el resultado. 
+> Cadena o String. Tipo de dato que representa una cadena de caractertes. Se utiliza para almacenar y manipular texto. 
+
+---
+✅  Características: Se define entre comillas simples, es inmutable (no se puede modificar una vez creada), es un [[objeto]] de clase str. 
 
 
 ---
-#### 🔧 Función  
-```python
-# Definicion de la funcion
-input():
-```
 
 
 #### 📌 Sintaxis básica  
 ```python
-input("What is your name?")
+# Sintaxis o estructura general
+mensaje = "Hola, mundo"
 ```
+
 
 ---
 
 #### 🛠 Ejemplo práctico  
 ```python
 # Código de ejemplo funcional
-print("Hola " + input("Cual es tu nombre?"))
 ```
 
 ---
 
 #### 🧠 Explicación del ejemplo  
-> En una sola linea, saluda y pide el nombre al usuario. Primero pregunta lo que esta dentro del input, luego concatena con hola en la respuesta. 
+> Línea por línea, qué hace el código anterior.
 
 ---
 
 #### 🧪 Variaciones o casos comunes  
--  Pedir datos al usuario
+-  
 -  
 
 ---

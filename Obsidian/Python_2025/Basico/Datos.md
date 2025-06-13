@@ -1,43 +1,35 @@
 
 
-### 🐍 Concatenar – Python
+### 🐍 datos – Python
 
-**📅 Fecha:** 2025-06-09  
+**📅 Fecha:** 2025-06-10  
 **📘 Curso o Fuente:**  
 **📍 Tema relacionado:**  
 
 ---
 
 #### 💡 Descripción del concepto  
-> Permite unir [[cadena]]s y otros datos, como por ejemplo se puede concatener una cadena con un [[numero]].
-
----
-#### 🔧 Función  
-```python
-# Definicion de la funcion. 
-print("Hola " + "John")
-```
-
----
-
-
-#### 📌 Sintaxis básica  
-```python
-print("cadena1" + "cadena2 ")
-```
-
+> En python todos los tipos de datos son tratados como un [[objeto]]. Todo valor, ya sea [[numero]], [[cadena]], [[lista]], [[funcion]] es una instancia de una [[clase]]. 
 
 ---
 
 #### 🛠 Ejemplo práctico  
 ```python
-print("Hola" + " John")
+# Código de ejemplo funcional
+
+x = 10
+print(type(x))
+print(x.bit_lenght())
 ```
 
 ---
 
 #### 🧠 Explicación del ejemplo  
-> Permite unir dos cadenas de caracteres
+> x es un numero entero (int)
+> x en realidad es una instancia de int.
+> Como objeto  tiene metodos como bit.lenght. 
+
+Hay que tener en cuenta que cada dato tiene una [[clase]]
 
 ---
 

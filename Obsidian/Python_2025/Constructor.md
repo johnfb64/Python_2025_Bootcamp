@@ -1,47 +1,49 @@
 
 
-### 🐍 input – Python
+### 🐍 Constructor – Python
 
-**📅 Fecha:** 2025-06-09  
+**📅 Fecha:** 2025-06-10  
 **📘 Curso o Fuente:**  
-**📍 Tema relacionado:**  Prompt de Python para usuario
+**📍 Tema relacionado:**  
 
 ---
 
 #### 💡 Descripción del concepto  
->Que el programa pregunta al usuario, guarda [[Datos]] en [[Variables]] para luego mostrar el resultado. 
-
+>El [[Constructor]] es una [[funcion]] especial que crea [[objeto]]s a partir de una [[clase]]. En python cada tipo de dato tiene un [[Constructor]].
 
 ---
 #### 🔧 Función  
 ```python
-# Definicion de la funcion
-input():
+# Definicion de la funcion. 
+def mi_funcion():
+    pass
 ```
+
+---
 
 
 #### 📌 Sintaxis básica  
 ```python
-input("What is your name?")
+# Sintaxis o estructura general
 ```
+
 
 ---
 
 #### 🛠 Ejemplo práctico  
 ```python
 # Código de ejemplo funcional
-print("Hola " + input("Cual es tu nombre?"))
 ```
 
 ---
 
 #### 🧠 Explicación del ejemplo  
-> En una sola linea, saluda y pide el nombre al usuario. Primero pregunta lo que esta dentro del input, luego concatena con hola en la respuesta. 
+> Línea por línea, qué hace el código anterior.
 
 ---
 
 #### 🧪 Variaciones o casos comunes  
--  Pedir datos al usuario
+-  
 -  
 
 ---

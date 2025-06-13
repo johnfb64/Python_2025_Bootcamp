@@ -1,4 +1,1 @@
-name = ("Hola Mundo!")
-longitud=len(name)
-print(longitud)
-
+print(bool(1), bool(-1), bool('casa'), bool(24))
