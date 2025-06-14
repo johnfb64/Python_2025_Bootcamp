@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atributo.md",
+                "file": "metodo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "atributo"
+              "title": "metodo"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "7bcc89a48a914921",
   "lastOpenFiles": [
+    "metodo.md",
     "atributo.md",
     "Obsidian/Python_2025/Basico/Booleano.md",
     "Obsidian/Python_2025/Basico/cadena.md",
