@@ -1,4 +1,4 @@
-
+#Python
 
 ### 🐍 datos – Python
 
@@ -17,17 +17,60 @@
 ```python
 # Código de ejemplo funcional
 
-x = 10
-print(type(x))
-print(x.bit_lenght())
+# Tipos de datos en Python
+
+  
+
+entero = 10
+
+decimal = 3,1416
+
+  
+
+es_mayor = True
+
+  
+
+mensaje = "Hola mundo"
+
+  
+
+nombre = "John"
+
+  
+
+persona = {"Pepe", "Victoria", "Elvira"}
+
+  
+
+numeros = [1,2,3,4,5]
+
+  
+
+coordenadas = [10.0, 20,0]
+
+  
+
+colores = {"Rojo", "Verde", "Azul"}
+
+  
+  
+
+print(type(entero))
+
+  
+
+print(type(mensaje))
+
+  
+
+print(type(persona))
 ```
 
 ---
 
 #### 🧠 Explicación del ejemplo  
-> x es un numero entero (int)
-> x en realidad es una instancia de int.
-> Como objeto  tiene metodos como bit.lenght. 
+>Ejemplo con diferentes tipos de datos. Al final [[type]] indicara el tipo de dato que es.  
 
 Hay que tener en cuenta que cada dato tiene una [[clase]]
 

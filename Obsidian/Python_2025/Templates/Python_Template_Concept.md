@@ -1,3 +1,4 @@
+#python
 <%*
 let concepto = await tp.system.prompt("¿Cuál es el concepto?")
 let fecha = tp.date.now("YYYY-MM-DD")
@@ -24,12 +25,10 @@ def mi_funcion():
 
 ---
 
-
 #### 📌 Sintaxis básica  
 ```python
 # Sintaxis o estructura general
 ```
-
 
 ---
 
@@ -37,6 +36,11 @@ def mi_funcion():
 ```python
 # Código de ejemplo funcional
 ```
+
+---
+
+#### 📤 Resultado  
+> Aquí se escribe el output que genera el código anterior.
 
 ---
 

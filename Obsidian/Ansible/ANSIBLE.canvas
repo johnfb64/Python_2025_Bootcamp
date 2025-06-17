@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"82994fdbcfa6e290","type":"file","file":"Obsidian/Ansible/Implementacion/ANSIBLE_CONFIG.md","x":-880,"y":-440,"width":400,"height":400},
+		{"id":"d950ed8538d26bb5","type":"file","file":"Obsidian/Ansible/Implementacion/ansible.cfg.md","x":-360,"y":-440,"width":400,"height":400},
+		{"id":"7426f93c6821c805","type":"file","file":"Obsidian/Ansible/Implementacion/Consulta Inventario.md","x":-360,"y":-1000,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"cdf1274eae4e0fd2","fromNode":"d950ed8538d26bb5","fromSide":"left","toNode":"82994fdbcfa6e290","toSide":"right"},
+		{"id":"5dd06503cf0155ad","fromNode":"7426f93c6821c805","fromSide":"bottom","toNode":"d950ed8538d26bb5","toSide":"top"}
+	]
+}

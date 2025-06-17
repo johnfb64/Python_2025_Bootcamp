@@ -11,6 +11,14 @@
 #### 💡 Descripción del concepto  
 > Es un tipo de [[Datos]] que puede ser verdadero (true) o falso (false). En terminos de veracidad de una variable u objeto, por defecto todos los objetos se consideran inicialmente verdaderos. 
 > El [[Constructor]] de objetos de tipo [[Booleano]] es bool y permite convertir cualquier objeto en su valor. 
+> 
+> Que se considera falso en python? Ejemplos:
+> 
+bool(0)         # False
+bool("")        # False
+bool([])        # False
+bool({})        # False
+bool(None)      # False
 
 ---
 #### 🔧 Función  
